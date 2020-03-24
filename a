@@ -1,0 +1,19 @@
+import random
+import time
+
+compliment = 
+[
+	"Test1", 
+	"Test2",
+	"Test3",
+	"Test4"
+]
+
+inspiration = 
+[
+	"tesT1"
+	"tesT2"
+	"tesT3"
+	"tesT4"
+]
+
